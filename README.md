@@ -277,6 +277,6 @@ python src/generator/dataset_generator.py 1
 
 ## 👤 Author & Credits
 
-- **Author**: Gauransh Dhingra (23/IT/057)
+- **Author**: Harshvardhan Kumar Arya (23/IT/068)
 - **Project Title**: Enterprise Serverless Data Lake for E-Commerce Analytics
 - **Timeline**: June 2026 – Present
