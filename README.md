@@ -252,7 +252,7 @@ CWS_Ecommerce_Project/
 ### 1. Installation & Environment Setup
 ```bash
 # Clone the repository
-git clone https://github.com/gauranshdhingra/serverless-ecommerce-datalake.git
+git clone https://github.com/Harshvardhan-2005/Serverless-E-Commerce-Data-Lake.git
 cd serverless-ecommerce-datalake
 
 # Install local dependencies
