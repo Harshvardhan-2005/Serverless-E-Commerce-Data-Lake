@@ -1,6 +1,6 @@
 """
 AWS Lambda 1: Parsing & Extraction Engine
-Author: Gauransh (23/IT/057)
+Author: Harshvardhan Kumar Arya (23/IT/068)
 
 Trigger: S3 PutObject Event on Raw Zone (s3://<bucket_name>/raw-zone/)
 
