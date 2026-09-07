@@ -1,6 +1,6 @@
 """
 AWS Lambda 2: Micro-Batch Aggregator & Master Athena ETL Trigger
-Author: Gauransh (23/IT/057)
+Author: Harshvardhan Kumar Arya (23/IT/068)
 
 Trigger: Amazon EventBridge (Cron / Rate expression: 5-minute micro-batch timer)
 
