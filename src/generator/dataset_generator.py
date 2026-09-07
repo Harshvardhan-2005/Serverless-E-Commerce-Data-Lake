@@ -1,6 +1,6 @@
 """
 Synthetic E-Commerce Data Generator
-Author: Gauransh (23/IT/057)
+Author: Harshvardhan Kumar Arya (23/IT/068)
 
 Simulates multi-format chaotic e-commerce data streams with intentionally engineered dirty data anomalies:
   - customers.csv: Missing city values (~10%)
