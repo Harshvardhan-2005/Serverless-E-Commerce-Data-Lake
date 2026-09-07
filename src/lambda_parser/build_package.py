@@ -1,6 +1,6 @@
 """
 AWS Lambda Build & Packaging Script
-Author: Gauransh (23/IT/057)
+Author: Harshvardhan Kumar Arya (23/IT/068)
 
 Packages AWS Lambda 1 (Parser) along with its third-party dependency 'PyPDF2' into a deployment zip file ready for AWS Lambda upload.
 """
