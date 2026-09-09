@@ -279,4 +279,4 @@ python src/generator/dataset_generator.py 1
 
 - **Author**: Harshvardhan Kumar Arya (23/IT/068)
 - **Project Title**: Enterprise Serverless Data Lake for E-Commerce Analytics
-- **Timeline**: June 2026 – Present
+- **Timeline**: June 2026
